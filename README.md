@@ -62,8 +62,6 @@ WIP (Expect some bugs)
 By toggling the snap feature whenever a measure point is grabbed and the controller is aimed at the model, a yellow point will appear on the mesh, 
 if the point is released it will appear where the yellow point was.
 
-##################################################################################################################################################
-
 HOW TO READ EXPORT:
 Single dist: distance between points, x1, y1, z1, x2, y2, z2
 Multi dist: distance of line, Area (defaults to 0), number of points, x1, y1, z1, x2, y2, z2, ... , xn, yn, zn
